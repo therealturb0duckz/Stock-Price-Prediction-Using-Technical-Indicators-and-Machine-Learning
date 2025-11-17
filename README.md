@@ -1,9 +1,7 @@
 # Stock Price Prediction Using Machine Learning
-================================================
+
 ## 🦭 Author's Remark:
 the project is still on-going and the info below is just a template for me to easily fill in info when I finish my stuff. Yup, that is it. 
-
-================================================
 
 ## 📊 Project Overview
 
